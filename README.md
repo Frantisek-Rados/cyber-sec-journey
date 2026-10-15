@@ -6,8 +6,8 @@ Cieľ: stať sa penetračným testerom. Tento repozitár dokumentuje kurzy, laby
 
 ## Aktuálne sa vzdelávam
 
-- **Introduction to Security** – ČTÚ + Stratosphere Laboratory (ČVUT), 09/2025 – 10/2025 (prebieha)
-- **Ethical Hacker** – Cisco Networking Academy, od 10/2025 (prebieha)
+- **Introduction to Security** – ČTÚ + Stratosphere Laboratory (ČVUT), 09/2026 – (prebieha)
+- **Ethical Hacker** – Cisco Networking Academy, od 10/2026 (prebieha)
 - **Networking Basics** – Cisco Networking Academy (plánované)
 - **PortSwigger Web Security Academy** – priebežne
 - **TryHackMe / HackTheBox** – neskôr
