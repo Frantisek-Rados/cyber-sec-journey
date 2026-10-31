@@ -6,6 +6,6 @@ Praktické laby z PortSwigger Web Security Academy.
 
 | Téma | Lab | Stav | Writeup |
 | :--- | :--- | :--- | :--- |
-| A01 | IDOR | ⬜ | – |
-| A02 | CORS | ⬜ | – |
-| A05 | SQLi Login Bypass | ⬜ | – |
+| A01 | Broken Access Control | ✅ | [A01-Broken-Access-Control.md](./A01-Broken-Access-Control.md) |
+| A02 | Security Misconfiguration | ⬜ | – |
+| A05 | Injection | ⬜ | – |
