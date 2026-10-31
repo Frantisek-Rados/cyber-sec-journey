@@ -8,7 +8,7 @@ Moja cesta k etickému hackingu — poznámky, writeupy a progres.
 
 - **Introduction to Security** – ČVUT + Stratosphere Laboratory (ČVUT), 09/2026 – (prebieha)
 - **Ethical Hacker** – Cisco Networking Academy, od 10/2026 (prebieha)
-- **Networking Basics** – Cisco Networking Academy, od 10/2026 (prebieha)
+- **Networking Basics** – Cisco Networking Academy, 10/2026
 - **PortSwigger Web Security Academy** – priebežne
 - **TryHackMe / HackTheBox** – neskôr
 
